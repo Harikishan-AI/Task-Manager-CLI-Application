@@ -25,7 +25,7 @@ Before running the application, ensure you have the following installed on your 
 
 Clone the project repository from GitHub using the following command:
 ```bash
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/Harikishan-AI/Task-Manager-CLI-Application.git
 ```
 
 Install the required packages:
