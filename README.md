@@ -78,3 +78,9 @@ task-manager-cli/
 ├── README.md               # Documentation for the project
 └── requirements.txt        # Optional: Dependencies for the project
 ```
+
+## Output:
+
+![{BFAACECA-386C-402A-BEFD-4BCC2F8B0EDA}](https://github.com/user-attachments/assets/a6668f17-73cd-46c4-9322-7471952f0b05)
+
+
