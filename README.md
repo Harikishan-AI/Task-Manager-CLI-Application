@@ -83,4 +83,7 @@ task-manager-cli/
 
 ![{BFAACECA-386C-402A-BEFD-4BCC2F8B0EDA}](https://github.com/user-attachments/assets/a6668f17-73cd-46c4-9322-7471952f0b05)
 
+![{EB67222B-64B5-4620-B9B0-78CAE2003830}](https://github.com/user-attachments/assets/4e856239-80b1-4636-a08a-b8bd268f9694)
+
+![{8845E225-9A47-46ED-B24C-5AED3956D13E}](https://github.com/user-attachments/assets/1b646582-29a6-4aac-98b0-a6102158909f)
 
