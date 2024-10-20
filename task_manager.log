@@ -1,0 +1,74 @@
+2024-10-20 13:06:26,868 - INFO - tasks.json file created.
+2024-10-20 13:06:29,133 - WARNING - tasks.json is empty, starting with an empty task list.
+2024-10-20 13:06:30,313 - WARNING - tasks.json is empty, starting with an empty task list.
+2024-10-20 13:06:31,901 - WARNING - tasks.json is empty, starting with an empty task list.
+2024-10-20 13:06:32,997 - WARNING - tasks.json is empty, starting with an empty task list.
+2024-10-20 13:06:34,338 - WARNING - tasks.json is empty, starting with an empty task list.
+2024-10-20 13:06:34,350 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:06:41,746 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:41,830 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:41,835 - INFO - Task added: menu (ID: 1)
+2024-10-20 13:06:41,835 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:06:44,783 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:47,392 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:47,399 - INFO - Task marked as complete: menu (ID: 1)
+2024-10-20 13:06:47,401 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:06:49,796 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:49,804 - INFO - Task deleted: menu (ID: 1)
+2024-10-20 13:06:49,809 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:06:49,812 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:50,600 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:52,678 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:52,682 - INFO - Task added: menu (ID: 1)
+2024-10-20 13:06:52,686 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:06:53,379 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:56,682 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:06:56,693 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:07:02,676 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:02,753 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:02,760 - INFO - Task added: sidebar (ID: 2)
+2024-10-20 13:07:02,760 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:07:04,001 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:08,267 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:09,391 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:12,037 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:12,042 - INFO - Task marked as complete: sidebar (ID: 2)
+2024-10-20 13:07:12,046 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:07:13,381 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:17,017 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:07:17,031 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:07:18,213 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:17,042 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:19,630 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:19,712 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:19,718 - INFO - Task added: cr (ID: 3)
+2024-10-20 13:20:19,721 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:20:21,289 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:25,110 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:25,116 - INFO - Task marked as complete: menu (ID: 1)
+2024-10-20 13:20:25,120 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:20:26,614 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:28,725 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:28,734 - INFO - Task deleted: menu (ID: 1)
+2024-10-20 13:20:28,737 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:20:28,744 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:29,764 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:34,335 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:34,432 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:34,440 - INFO - Task deleted: cr (ID: 3)
+2024-10-20 13:20:34,444 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:20:34,456 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:35,577 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:20:35,588 - INFO - Tasks saved to tasks.json.
+2024-10-20 13:20:36,517 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:15,463 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:15,570 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:17,026 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:18,255 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:19,614 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:25,262 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:25,347 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:26,275 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:28,627 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:28,737 - INFO - Tasks loaded from tasks.json.
+2024-10-20 13:21:34,441 - INFO - Tasks loaded from tasks.json.
