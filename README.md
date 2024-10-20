@@ -1,6 +1,8 @@
 # Task Manager CLI Application
 
-#### App link: https://task-manager-cli-app.streamlit.app/  (use Email ID: testuser@example.com, Password: password123)
+## Usage
+- Login: Enter the dummy credentials (email: testuser@example.com, password: password123) to access the app.
+- App link: https://task-manager-cli-app.streamlit.app/
 
 ### Description
 The **Task Manager CLI Application** is a Python-based command-line tool for managing tasks efficiently. This application allows users to add, view, delete, and mark tasks as complete. All tasks are saved locally to a JSON file (`tasks.json`), making them persistent across multiple sessions. Additionally, tasks are displayed in a neat tabular format to improve readability, and logging functionality is provided to track actions and handle errors effectively.
@@ -45,9 +47,6 @@ Start the Streamlit application:
 streamlit run task_manager.py
 ```
 Open your web browser and go to http://localhost:8501 to access the Task Manager interface.
-
-## Usage
-- Login: Enter the dummy credentials (email: testuser@example.com, password: password123) to access the app.
 
 ## Adding Tasks:
 - Enter a task title in the "Task Title" input field and click "Add Task."
