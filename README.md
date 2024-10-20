@@ -1,6 +1,6 @@
 # Task Manager CLI Application
 
-#### App link: https://task-manager-cli-app.streamlit.app/
+#### App link: https://task-manager-cli-app.streamlit.app/  (use Email ID: testuser@example.com, Password: password123)
 
 ### Description
 The **Task Manager CLI Application** is a Python-based command-line tool for managing tasks efficiently. This application allows users to add, view, delete, and mark tasks as complete. All tasks are saved locally to a JSON file (`tasks.json`), making them persistent across multiple sessions. Additionally, tasks are displayed in a neat tabular format to improve readability, and logging functionality is provided to track actions and handle errors effectively.
