@@ -67,6 +67,7 @@ Click on "View Tasks" to display all tasks in a table format.
 - A button will appear to download the task list as a JSON file.
 
 ## File Structure
+```bash
 task-manager-cli/
 │
 ├── task_manager.py         # Main Python script for the Task Manager CLI
@@ -74,3 +75,4 @@ task-manager-cli/
 ├── task_manager.log        # Log file for tracking actions and errors
 ├── README.md               # Documentation for the project
 └── requirements.txt        # Optional: Dependencies for the project
+```
